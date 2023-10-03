@@ -25,7 +25,7 @@ Four supervised machine learning models were employed:
 - Models were cross-validated using 5-fold cross-validation to assess their performance.
 
 ### Model Selection
-The Machine Learning models implemented Include SVD, NMF, CoClustering, KNN and the best machine learning model was selected based on performance metrics:
+The best machine learning model was selected based on performance metrics:
 - Root Mean Square Error (RMSE)
 - Mean Absolute Error (MAE)
 
